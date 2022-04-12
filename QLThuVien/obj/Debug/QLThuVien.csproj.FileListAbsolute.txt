@@ -1,0 +1,17 @@
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe.config
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\bin\Debug\QLThuVien.exe
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\bin\Debug\QLThuVien.pdb
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csprojAssemblyReference.cache
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.Properties.Resources.resources
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.GenerateResource.cache
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.csproj.CoreCompileInputs.cache
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.exe
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.pdb
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frm_MuonSach.resources
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\bin\Debug\QLThuVien.mdf
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\bin\Debug\QLThuVien_log.ldf
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frm_SachChiTiet.resources
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.frm_Menu.resources
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.GUI.frm_DocGia.resources
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.GUI.frm_Sach.resources
+D:\_HocOnline\CS464H\do_an_nhom\QLThuVien\QLThuVien\obj\Debug\QLThuVien.GUI.frm_DangNhap.resources
